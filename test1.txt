@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 4249-5011
+
+ Directory of E:\Reshma Stuff Final\Learning\MyProject
+
+15-01-2019  03:58 PM    <DIR>          .
+15-01-2019  03:58 PM    <DIR>          ..
+15-01-2019  03:58 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,020,721,152 bytes free
